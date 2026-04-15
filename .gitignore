@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Test & coverage
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+*-report.json
+*-report-prev.json
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Misc
+.DS_Store
+.vscode/
+*.local
+
+# Logs
+*.log*
+
+# Node (на всякий)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log**.aux
+*.fls
+*.fdb_latexmk
+*.out
+*.toc
+*.lot
+*.lof
+*.bbl
+*.blg
+*.gz

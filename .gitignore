@@ -48,3 +48,4 @@ yarn-error.log**.aux
 *.bbl
 *.blg
 *.gz
+.clang-format
